@@ -1,6 +1,10 @@
 
 #include "randTake.h"
 
+
+int RandTake::left = 0;
+uint32 RandTake::value = 0;
+
 /**
  * @author gpt3.5 
  */
